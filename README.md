@@ -1,3 +1,5 @@
+Dustin Coy Custom Variant of Lazy Recon
+
 # LazyRecon
 [![release](https://img.shields.io/github/release/capt-meelo/LazyRecon.svg?label=version&style=flat)](https://github.com/capt-meelo/LazyRecon/releases)
 [![license](https://img.shields.io/github/license/capt-meelo/LazyRecon.svg?style=flat)](https://github.com/capt-meelo/LazyRecon/blob/master/LICENSE)
